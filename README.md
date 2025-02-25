@@ -28,7 +28,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moosadeveloper&show_icons=true&locale=en" alt="moosadeveloper" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moosadeveloper&" alt="moosadeveloper" /></p>
+<p><img align="center" src="https://avatars.githubusercontent.com/u/156349320?v=4" alt="moosadeveloper" /></p>
+
+
+
+
+
+
+
 
 
 
